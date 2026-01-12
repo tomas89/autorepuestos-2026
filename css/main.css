@@ -12,13 +12,18 @@
 }
 */
 
-.trebol{
-    width: 150px;
-    height: 150px;
-}
 
-img{
+.img-carousel{
     height: 400px;
     max-width: 100%;
     padding: 50 px;
+}
+
+
+
+
+
+.trebol{
+    width: 150px;
+    height: 150px;
 }
