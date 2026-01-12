@@ -1,1 +1,2 @@
-alert("Hola autorepuestos 2026")
+console.log("Autorepuestos")
+
